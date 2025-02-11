@@ -15,7 +15,7 @@ A beginner-friendly Python tool that evaluates the strength of a password based 
 
 ---
 
-### Example Output
+### Example Outputs
 
 ```
 Enter a password to check its strength: Ujjawal
